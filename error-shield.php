@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Error Shield
- * Plugin URI: https://stillinov.com
+ * Plugin URI: https://github.com/SDN33/error-shield
  * Description: Masque toutes les erreurs PHP et logs d'erreur sur le site client pour une expérience utilisateur plus professionnelle.
  * Version: 1.0.0
  * Author: Stéphane Dei-negri
