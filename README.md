@@ -1,6 +1,6 @@
 # 🛡️ Error Shield - Plugin WordPress
 
-![Error Shield](https://pbs.twimg.com/media/GnkVssIWQAARPfh?format=jpg&name=medium](https://pbs.twimg.com/media/GnkVssIWQAARPfh?format=jpg&name=medium)
+![Error Shield](https://pbs.twimg.com/media/GnkVssIWQAARPfh?format=jpg&name=medium)
 
 **Error Shield** est une extension WordPress qui masque les erreurs PHP et les enregistre dans un fichier log.
 
