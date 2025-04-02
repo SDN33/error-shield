@@ -10,7 +10,7 @@
 - ⚡ Léger et facile à utiliser  
 
 ## 🔧 Installation
-1. 📥 Télécharge le fichier ZIP du plugin depuis [GitHub](https://github.com/ton-pseudo/error-shield)  
+1. 📥 Télécharge le fichier ZIP du plugin depuis [GitHub](https://github.com/SDN33/error-shield)  
 2. 🛠️ Va dans `Extensions > Ajouter` sur WordPress  
 3. 📂 Clique sur "Téléverser une extension" et choisis `error-shield.zip`  
 4. ✅ Active l’extension dans `Extensions`  
